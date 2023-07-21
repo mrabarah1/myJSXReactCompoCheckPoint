@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    background: #a1b978;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 40px;
+    width: 25%;
+}
+.name {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+.img {
+    border-radius: 50%;
+    margin-left: 0.5rem;
+}
+p{
+    width: 300px;
+}
